@@ -6,6 +6,8 @@
 /*styling*/
 body{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 
 }
 .icons {
@@ -17,8 +19,8 @@ body{
   background-image: url("Icons-images/lp-bgrnd.png");
   float: left;
   color: white;
-  width: 50%;
-  max-width: 50%;
+  width: 49%;
+  max-width: 49%;
   height: 530px;
 }
 #firstLine {
